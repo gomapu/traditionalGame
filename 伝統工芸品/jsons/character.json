@@ -1,0 +1,22 @@
+{
+    "characterTemplates": [
+        {
+            "id": 1,
+            "name": "Character A",
+            "templates": [
+                "今日は{questName}で{materialName}が多くとれるみたいだぞ。",
+                "{prefectureName}産の{craftName}は実に立派な造形だな！",
+                "俺がただのお盆に見えるか？結構模様凝ってるんだぜ。しかと見よ！"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Character B",
+            "templates": [
+                "{questName}で{materialName}の採取へ行きましょう。。",
+                "なんて素敵な{craftName}でしょう。{prefectureName}で古くから愛されている伝統工芸品だそうですよ。",
+                "私は必ずこの世界のデクリビアンを駆逐します。共に頑張りましょう。"
+            ]
+        }
+    ]
+}
